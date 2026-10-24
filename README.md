@@ -64,7 +64,9 @@ Essas observações se referem ao recorte exportado e aos dados do exercício.
 
 ## Visualização e interatividade
 
-A documentação foi preparada a partir de uma exportação em PDF de seis páginas. O PDF ainda não foi adicionado a este repositório.
+**[Visualizar o dashboard em PDF](./Exerc%C3%ADcio%20Pr%C3%A1tico%203.pdf)**
+
+O PDF contém as seis páginas do relatório, com os indicadores, matrizes e acompanhamento de metas do exercício.
 
 A exportação é estática. Os filtros dependem do relatório original; o arquivo `.pbix` e o link interativo ainda não estão disponíveis.
 
